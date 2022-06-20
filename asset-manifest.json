@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.100698c8.css",
-    "main.js": "/static/js/main.ed5ab60a.js",
-    "static/js/787.675f2aa0.chunk.js": "/static/js/787.675f2aa0.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.100698c8.css.map": "/static/css/main.100698c8.css.map",
-    "main.ed5ab60a.js.map": "/static/js/main.ed5ab60a.js.map",
-    "787.675f2aa0.chunk.js.map": "/static/js/787.675f2aa0.chunk.js.map"
+    "main.css": "/mini-project-to-do-list-progate/static/css/main.100698c8.css",
+    "main.js": "/mini-project-to-do-list-progate/static/js/main.782f3243.js",
+    "static/js/787.675f2aa0.chunk.js": "/mini-project-to-do-list-progate/static/js/787.675f2aa0.chunk.js",
+    "static/media/logo.svg": "/mini-project-to-do-list-progate/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/mini-project-to-do-list-progate/index.html",
+    "main.100698c8.css.map": "/mini-project-to-do-list-progate/static/css/main.100698c8.css.map",
+    "main.782f3243.js.map": "/mini-project-to-do-list-progate/static/js/main.782f3243.js.map",
+    "787.675f2aa0.chunk.js.map": "/mini-project-to-do-list-progate/static/js/787.675f2aa0.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.100698c8.css",
-    "static/js/main.ed5ab60a.js"
+    "static/js/main.782f3243.js"
   ]
 }
