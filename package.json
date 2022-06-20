@@ -2,6 +2,7 @@
     "name": "mini-project-to-do-list-progate",
     "version": "0.1.0",
     "private": true,
+    "homepage": "https://edikurniawan-dev.github.io/mini-project-to-do-list-progate",
     "dependencies": {
         "@testing-library/jest-dom": "^5.16.4",
         "@testing-library/react": "^13.3.0",
