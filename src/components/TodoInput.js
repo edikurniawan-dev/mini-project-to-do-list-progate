@@ -74,14 +74,14 @@ export default function TodoInput({
                         placeholder={
                             todo === '' ? 'Create todo' : 'Update todo'
                         }
-                        className="w-full input input-bordered input-success"
+                        className="w-full font-bold input input-bordered input-success"
                         value={value}
                         onChange={handleChange}
                         autoFocus
                     />
                     <label
                         className={
-                            'mt-1 text-error font-medium ' +
+                            'mt-1 text-error text-sm font-bold ' +
                             (validation === true ? 'block' : 'hidden')
                         }>
                         *{errorMessage}
@@ -91,7 +91,7 @@ export default function TodoInput({
                 <button
                     onClick={handleSubmit}
                     disabled={validation}
-                    className="text-white btn btn-success">
+                    className="font-bold text-white btn btn-success">
                     {todo === '' ? 'Create' : 'Update'}
                 </button>
             </form>
