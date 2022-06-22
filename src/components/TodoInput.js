@@ -20,7 +20,7 @@ export default function TodoInput({
     const handleSubmit = (e) => {
         e.preventDefault();
         if (value === '') {
-            setErrorMessage('Tidak boleh kosong');
+            setErrorMessage('Can not be empty');
             setValidation(true);
             return setTodoItems(JSON.parse(localStorage.getItem('todoItems')));
         }
