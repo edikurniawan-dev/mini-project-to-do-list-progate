@@ -13,7 +13,7 @@ export default function TodoItem({
                     <input
                         type="checkbox"
                         onClick={() => completeTodoItem(index)}
-                        className="mt-1 mr-5 checkbox checkbox-accent"
+                        className="mt-1 mr-2 md:mr-5 checkbox checkbox-accent"
                         checked={item.complete}
                         readOnly
                     />
